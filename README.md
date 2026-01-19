@@ -10,21 +10,10 @@
 
 ## 🚀 About Me
 
-```python
-class DataAnalyst:
-    def __init__(self):
-        self.name = "Salman Alfaris"
-        self.role = "Fresh Graduate | Data Analyst"
-        self.location = "Bima, West Nusa Tenggara, Indonesia"
-        self.passions = ["Data Analysis", "Machine Learning", "Data Science"]
-        self.fuel = "Coffee ☕"
-    
-    def say_hi(self):
-        print("Thanks for dropping by! Let's turn data into insights together!")
+Informatics Fresh Graduate with a strong passion for Data Analysis, Data Science, and Machine Learning. I enjoy turning messy data into meaningful insights and building data-driven models to support smarter decision-making.
 
-me = DataAnalyst()
-me.say_hi()
-```
+🚀 Known as a hard worker, detail-oriented, and reliable person who can work well independently or in a team. Currently on a mission to level up my skills and become a professional Data Analyst—one dataset at a time (and yes, coffee helps ☕📊).
+
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
@@ -76,26 +65,6 @@ me.say_hi()
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=zyraf13&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="180em" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zyraf13&theme=radical&hide_border=true" height="180em" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyraf13&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=zyraf13&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-</div>
 
 ---
 
@@ -109,15 +78,6 @@ me.say_hi()
 
 ---
 
-## 💭 Random Dev Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
----
 
 ## 🌐 Connect with Me
 
@@ -125,7 +85,7 @@ me.say_hi()
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alfariisz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/salman-alfaris)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](salmanalfaris543@gmail.com)
 
 </div>
 
@@ -133,9 +93,6 @@ me.say_hi()
 
 <div align="center">
 
-### 💻 "Data is the new oil, but insights are the fuel!" ⚡
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 ### Show some ❤️ by starring some repositories!
 
