@@ -12,7 +12,7 @@
 
 Informatics Fresh Graduate with a strong passion for Data Analysis, Data Science, and Machine Learning. I enjoy turning messy data into meaningful insights and building data-driven models to support smarter decision-making.
 
-🚀 Known as a hard worker, detail-oriented, and reliable person who can work well independently or in a team. Currently on a mission to level up my skills and become a professional Data Analyst—one dataset at a time (and yes, coffee helps ☕📊).
+Known as a hard worker, detail-oriented, and reliable person who can work well independently or in a team. Currently on a mission to level up my skills and become a professional Data Analyst—one dataset at a time (and yes, coffee helps ☕📊).
 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
@@ -84,8 +84,8 @@ Informatics Fresh Graduate with a strong passion for Data Analysis, Data Science
 <div align="center">
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alfariisz)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/salman-alfaris)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](salmanalfaris543@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salman-alfaris-106557296/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:salmanalfaris543@gmail.com)
 
 </div>
 
