@@ -1,3 +1,10 @@
+##👋 Hi, I'm Salman Alfaris
+
+🎓 Fresh Graduate Informatika | 📊 Aspiring Data Analyst | 🤖 Machine Learning & Data Enthusiast
+
+Informatics Fresh Graduate with a strong passion for Data Analysis, Data Science, and Machine Learning. I enjoy turning messy data into meaningful insights and building data-driven models to support smarter decision-making.
+
+🚀 Known as a hard worker, detail-oriented, and reliable person who can work well independently or in a team. Currently on a mission to level up my skills and become a professional Data Analyst—one dataset at a time (and yes, coffee helps ☕📊).
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alfariisz) 
