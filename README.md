@@ -18,8 +18,6 @@ Informatics Fresh Graduate with a strong passion for Data Analysis, Data Science
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/zyraf13/zyraf13/output/pacman-contribution-graph.svg">
 </picture>
 
-###
-
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
