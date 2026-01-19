@@ -1,6 +1,6 @@
-##👋 Hi, I'm Salman Alfaris
+## 👋 Hi, I'm Salman Alfaris
 
-🎓 Fresh Graduate Informatika | 📊 Aspiring Data Analyst | 🤖 Machine Learning & Data Enthusiast
+# 🎓 Fresh Graduate Informatika | 📊 Aspiring Data Analyst | 🤖 Machine Learning & Data Enthusiast
 
 Informatics Fresh Graduate with a strong passion for Data Analysis, Data Science, and Machine Learning. I enjoy turning messy data into meaningful insights and building data-driven models to support smarter decision-making.
 
