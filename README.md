@@ -68,16 +68,6 @@ Known as a hard worker, detail-oriented, and reliable person who can work well i
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Salman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zyraf13&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
 
 ## 🌐 Connect with Me
 
